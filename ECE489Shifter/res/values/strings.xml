@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ECE489 Shifter</string>
+    <string name="action_settings">Dual Shift</string>
+    <string name="action_settings_dual">Single Shift</string>
+    <string name="header">Input text to shift!</string>
+    <string name="go_button">Shift</string>
+    <string name="edit_text"></string>
+    <string name="output">Encrypted String</string>
+    <string name="input">Select number of positions to shift:</string>
+    <string name="allow">Allow all text?</string>
+
+</resources>
